@@ -2,6 +2,8 @@
 
 The Multicorder (copyright pending) is a smartphone, phone case that will make your smartphone even smarter by adding widenned sensor capabilities to it.  With 10 sensors (interfaced to the phone by a Teensy-esque microcontroller) the Labcase will be able to not only measure all 7 SI base units, but also 15 additional measurements like potential difference, reistance, barometric pressure and more!
 
+![alt tag](https://raw.githubusercontent.com/theo-kim/multicorder/master/Assembly3.bmp)
+
 This repo has both the actual device coding as well as the DB coding and phone app codes.
 
 Current list of sensors:
