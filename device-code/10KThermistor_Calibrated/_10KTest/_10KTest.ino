@@ -1,8 +1,8 @@
 // the value of the 'other' resistor
-#define SERIESRESISTOR 100000    
+#define SERIESRESISTOR 10000    
  
 // What pin to connect the sensor to
-#define THERMISTORPIN A2 
+#define THERMISTORPIN A0 
 
 //thermistor nomial
 #define THERMISTORNOMIAL 10000
